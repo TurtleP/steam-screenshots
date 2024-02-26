@@ -1,0 +1,7 @@
+[project]
+name = "SteamScreenshotsOrganizer"
+version = "0.1.0"
+authors = [{ name = "TurtleP" }]
+license = { text = "MIT License" }
+
+dependencies = ["requests", "pathvalidate"]
